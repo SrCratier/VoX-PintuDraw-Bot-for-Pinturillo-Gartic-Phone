@@ -15,22 +15,22 @@ Este enfoque evita los problemas comunes de otros bots como:
 
 # ✨ Características Principales
 
-## 🧠 Motor de Precisión Hi-Fi
+## ▫️ Motor de Precisión Hi-Fi
 - Movimiento interpolado punto por punto
 - Simulación de movimiento humano realista
 - Previene pérdidas de trazos por limitaciones del navegador
 
-## 🖼️ Procesamiento de Imagen con OpenCV
+## ▫️ Procesamiento de Imagen con OpenCV
 - Conversión automática desde el portapapeles
 - Detección de bordes mediante algoritmo Canny
 - Optimización de contornos para dibujo eficiente
 
-## 🎯 Sistema de Calibración Inteligente
+## ▫️ Sistema de Calibración Inteligente
 - Calibración manual de área de dibujo
 - Guarda configuración automáticamente
 - Precisión adaptable a cualquier resolución
 
-## ⌨️ Control Global por Teclado
+## ▫️ Control Global por Teclado
 - Inicio inmediato
 - Parada de emergencia
 - Calibración rápida
@@ -69,7 +69,7 @@ pip install -r requirements.txt
 
 ---
 
-# 🚀 Uso
+# ▫️ Uso
 
 ## Ejecutar el bot
 
@@ -137,7 +137,7 @@ No es necesario editarlo manualmente, pero puedes eliminarlo para recalibrar.
 
 ---
 
-# 🔬 Configuración Avanzada (Opcional)
+# ▫️ Configuración Avanzada (Opcional)
 
 Dentro del archivo principal, puedes ajustar:
 
@@ -159,7 +159,7 @@ Configuración actual optimizada para equilibrio entre precisión y velocidad.
 
 ---
 
-# 🧠 Arquitectura Técnica
+# ▫️ Arquitectura Técnica
 
 Componentes principales:
 
@@ -168,45 +168,6 @@ Componentes principales:
 - NumPy → Manipulación de matrices
 - Pillow → Captura desde portapapeles
 - Keyboard → Control global
-
----
-
-# 📁 Archivos del Proyecto
-
-axidraw_bot.py  
-Motor principal del bot
-
-requirements.txt  
-Dependencias necesarias
-
-config_hifi.json  
-Archivo generado automáticamente
-
-.gitignore  
-Exclusión de archivos innecesarios
-
-README.txt  
-Documentación
-
----
-
-# 🛠️ Subir el Proyecto a GitHub
-
-Ejecuta estos comandos en la carpeta del proyecto:
-
-git init
-
-git branch -M main
-
-git add .
-
-git commit -m "Initial release: VoX-PintuDraw Hi-Fi precision engine"
-
-git remote add origin https://github.com/TU_USUARIO/VoX-PintuDraw.git
-
-git push -u origin main
-
----
 
 # ⚠️ Importante
 
@@ -228,7 +189,7 @@ No se recomienda su uso para afectar negativamente la experiencia de otros usuar
 
 # 👤 Autor
 
-VoX
+VoX (SrCratier)
 
 Proyecto VoX-PintuDraw  
 Motor de dibujo Hi-Fi basado en precisión Win32
@@ -251,3 +212,4 @@ Características en desarrollo futuro:
 # 📜 Licencia
 
 Uso libre para fines educativos y personales.
+
