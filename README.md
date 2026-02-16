@@ -196,7 +196,7 @@ Motor de dibujo Hi-Fi basado en precisión Win32
 
 ---
 
-# 🚀 Estado del Proyecto
+# ▫️ Estado del Proyecto
 
 Versión actual: Estable
 
@@ -212,4 +212,5 @@ Características en desarrollo futuro:
 # 📜 Licencia
 
 Uso libre para fines educativos y personales.
+
 
